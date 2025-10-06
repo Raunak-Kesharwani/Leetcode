@@ -1,0 +1,9 @@
+# used AI while solving the problems 
+1752. check if arrays is sorted and roatational 
+
+
+
+
+
+
+# used other sources or taken help while solving problem 
